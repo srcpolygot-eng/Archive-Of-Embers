@@ -1,0 +1,10 @@
+<Project Sdk="Godot.NET.Sdk/4.2.2">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <RootNamespace>ArchiveOfEmbers.Godot</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EnterpriseRpg.Engine\src\EnterpriseRpg.Engine\EnterpriseRpg.Engine.csproj" />
+  </ItemGroup>
+</Project>
